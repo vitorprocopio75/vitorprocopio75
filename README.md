@@ -1,4 +1,4 @@
-# Procópio ![MuaKissGIF](https://github.com/user-attachments/assets/cce0fb1d-f04b-41db-8784-e89487ab3b8f)
+# Procópio 
 
 
 <!--
