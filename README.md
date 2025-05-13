@@ -22,7 +22,8 @@ Tenho 17 anos, nasci em Barueri e comecei a programar há pouco tempo. Apesar de
 />
 
 
-### 📊 Estatísticas
+
+                                                            ### 📊 Estatísticas
 
 <p>
   <img
